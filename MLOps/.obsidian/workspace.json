@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#измеримым",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,8 +164,10 @@
   },
   "active": "3098a188ea22f31b",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "1. Introduction.md",
+    "Pasted image 20241022163312.png",
     "Pasted image 20241022150311.png",
-    "Pasted image 20241022145236.png",
-    "1. Introduction.md"
+    "Pasted image 20241022145236.png"
   ]
 }
