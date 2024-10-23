@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5dfa29cf0364ab74",
+        "id": "026724129535fe8a",
         "type": "tabs",
         "children": [
           {
-            "id": "3098a188ea22f31b",
+            "id": "dc0cbb3ab2a4efdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introduction.md",
+                "file": "1_Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "1_Introduction"
+            }
+          },
+          {
+            "id": "62023c6efd7631a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Production python code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Production python code"
             }
           }
         ]
@@ -162,10 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3098a188ea22f31b",
+  "active": "dc0cbb3ab2a4efdb",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "1. Introduction.md",
+    "2_Production_python_code.md",
+    "Pasted image 20241023120531.png",
+    "Pasted image 20241023120453.png",
+    "1_Introduction.md",
+    "lesson_2.canvas",
+    "Untitled.md",
     "Pasted image 20241022163312.png",
     "Pasted image 20241022150311.png",
     "Pasted image 20241022145236.png"
