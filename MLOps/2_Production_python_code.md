@@ -81,7 +81,7 @@ DataClasses - хорошая библиотека для кофигов
 
 
 **Тестирование**
-1. Код без тестов -- это сломанный код
+1. Код без тестов - это сломанный код
 2. Даже если всё работает сейчас, вы сломаете его завтра. Без тестов вы не
 узнаете об этом.
 3. Заставляет вас писать код лучше
@@ -109,7 +109,14 @@ DataClasses - хорошая библиотека для кофигов
 -  **poetry**
 `conda create python=3.6 -n <name_env>` 
 
+**ML проект**
 
 
+![[Pasted image 20241026161241.png]]
 
-
+![[Pasted image 20241026163548.png]]
+Commands:
+ - `python -m venv ml_project`
+ - `source ml_project/bin/activate`
+ - `pip install -e .`
+ - `python ml_example/train_pipeline.py configs/train_config.yaml `
